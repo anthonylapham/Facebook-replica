@@ -7,7 +7,7 @@ body {
   padding: 40px 40px;
 }
 
-#title{
+#title {
   font-size: 40px;
   font-weight: bold;
   font-family: Segoe UI;
@@ -17,30 +17,47 @@ body {
   top: 15px;
 }
 
-#email{
+#email {
   font-size: 15px;
   position: absolute;
   left: 700px;
   top: 25px;
 }
 
-#phone{
+#phone {
   font-size: 12px;
-  position:absolute;
-  top: 10px;
+  position: relative;
+  bottom: 53px;
   left: 700px;
 }
 
-#pass{
+#pass {
   font-size: 15px;
   position: absolute;
   left: 900px;
   top: 25px;
 }
 
-#encrypt{
+#encrypt {
   font-size: 12px;
   position: absolute;
-  top: 10px;
+  top: 5px;
   left: 900px;
+}
+
+.btn-primary {
+  position: absolute;
+  left: 1100px;
+  top: 27px;
+  font-weight: bold;
+  border: 10px;
+  border-color: black;
+}
+
+#forgot {
+  font-size: 10px;
+  position: relative;
+  left: 900px;
+  bottom: 25px;
+  color: #dfe3ee
 }
