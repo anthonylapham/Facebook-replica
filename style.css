@@ -1,0 +1,46 @@
+body {
+  background-color: #dfe3ee;
+}
+
+#banner {
+  background-color: #3b5998;
+  padding: 40px 40px;
+}
+
+#title{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Segoe UI;
+  color: #ffffff;
+  position: absolute;
+  left: 180px;
+  top: 15px;
+}
+
+#email{
+  font-size: 15px;
+  position: absolute;
+  left: 700px;
+  top: 25px;
+}
+
+#phone{
+  font-size: 12px;
+  position:absolute;
+  top: 10px;
+  left: 700px;
+}
+
+#pass{
+  font-size: 15px;
+  position: absolute;
+  left: 900px;
+  top: 25px;
+}
+
+#encrypt{
+  font-size: 12px;
+  position: absolute;
+  top: 10px;
+  left: 900px;
+}
