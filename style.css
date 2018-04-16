@@ -61,3 +61,19 @@ body {
   bottom: 25px;
   color: #dfe3ee
 }
+
+#singup{
+  position: absolute;
+  left: 802px;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p5{
+  position: relative;
+  top: 30px;
+  right: 177px;
+  font-size: 20px;
+  font-weight: lighter;
+}
