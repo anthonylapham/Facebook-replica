@@ -102,8 +102,34 @@ p3 {
 
 p4 {
   position: relative;
-  ;
   top: 225px;
   right: 511px;
   font-size: 15px;
+}
+
+#fname{
+  position: relative;
+  top: 100px;
+  right: 430px;
+  font-size: 20px;
+}
+
+#lname{
+  position: relative;
+  top: 100px;
+  right: 450px;
+  font-size: 20px;
+}
+
+#mobile{
+  position: relative;
+  top: 150px;
+  right: 988px;
+  font-size: 20px;
+}
+
+#pword{
+  position: relative;
+  top: 135px;
+  font-size: 20px;
 }
