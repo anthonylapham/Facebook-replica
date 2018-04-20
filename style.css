@@ -107,29 +107,51 @@ p4 {
   font-size: 15px;
 }
 
-#fname{
+#fname {
   position: relative;
   top: 100px;
   right: 430px;
   font-size: 20px;
 }
 
-#lname{
+#lname {
   position: relative;
   top: 100px;
   right: 450px;
   font-size: 20px;
 }
 
-#mobile{
+#mobile {
   position: relative;
   top: 150px;
   right: 988px;
   font-size: 20px;
 }
 
-#pword{
+#pword {
   position: relative;
   top: 135px;
+  font-size: 20px;
+}
+
+::placeholder {
+  color: #dfe3ee;
+}
+
+#birthDay {
+  position: absolute;
+  left: 860px;
+  bottom: 175px;
+  font-size: 20px;
+}
+
+#date {
+  font-size: 15px;
+}
+
+#gender {
+  position: absolute;
+  left: 860px;
+  bottom: 125px;
   font-size: 20px;
 }
