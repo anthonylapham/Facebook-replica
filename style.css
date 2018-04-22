@@ -112,7 +112,7 @@ p4 {
   top: 80px;
   right: 430px;
   font-size: 20px;
-   border: 1px solid #bdc7d8;
+  border: 1px solid #bdc7d8;
 }
 
 #lname {
@@ -120,7 +120,7 @@ p4 {
   top: 80px;
   right: 450px;
   font-size: 20px;
-   border: 1px solid #bdc7d8;
+  border: 1px solid #bdc7d8;
 }
 
 #mobile {
@@ -128,14 +128,14 @@ p4 {
   top: 127px;
   right: 984px;
   font-size: 20px;
-   border: 1px solid #bdc7d8;
+  border: 1px solid #bdc7d8;
 }
 
 #pword {
   position: relative;
   top: 115px;
   font-size: 20px;
-   border: 1px solid #bdc7d8;
+  border: 1px solid #bdc7d8;
 }
 
 ::placeholder {
