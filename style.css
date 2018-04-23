@@ -185,3 +185,14 @@ p6 {
   letter-spacing: 1px;
   color: #fff;
 }
+
+#fan {
+  position: relative;
+  left: 860px;
+  top: 200px;
+  border-top: 1px solid #a0a9c0;
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 8px;
+  padding-top: 10px;
+}
